@@ -15,3 +15,6 @@
 
 ## Future Goals
 (what would you do if you had more time?)
+
+- Does player age have an impact on overall player rating?
+- 
