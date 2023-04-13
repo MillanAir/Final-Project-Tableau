@@ -37,3 +37,6 @@ Missing Time and date data in the dataset.
 ## Future Goals
 
 I would like to create a heat map of player attributes by countries.
+
+## Project Files
+[Data Visualization](./Data%20Visualizations%20and%20Dashboard%20with%20Tableau.pdf)
